@@ -1,1 +1,2 @@
 tensor2tensor
+tensorflow>=2.12.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
